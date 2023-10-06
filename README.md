@@ -1,10 +1,12 @@
 # The-Sparks-Foundation-Tasks
 
-# Task-01: Prediction using Supervised machine learning
+## Task-01: Prediction using Supervised machine learning
+
   Implemented a linear regression model to predict the percentage of a student based on no. of study hours.
 
-# Task-02: Prediction using Unsupervised machine learning
-   Predicting the Optimum no. of Clusters from 'iris' dataset using K-means Clustering.
+## Task-02: Prediction using Unsupervised machine learning
+
+  Predicting the Optimum no. of Clusters from 'iris' dataset using K-means Clustering.
 
 ## Installation
 
