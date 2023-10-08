@@ -8,6 +8,10 @@
 
   Predicting the Optimum no. of Clusters from 'iris' dataset using K-means Clustering.
 
+## Task-03: EDA on Retail dataset  
+
+   Performed Exploratory Data Analysis (EDA) Retail on 'sample superstore' dataset using python to derive valuable business insights.
+
 ## Installation
 
 1. Clone the repository to your local machine using the following command:
