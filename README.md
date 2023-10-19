@@ -39,15 +39,12 @@ Alternatively, you can use the requirements.txt file to install all the dependen
 
 After installing the dependencies, you can clone this repository and run the Jupyter notebook files:
 
-`git clone https://github.com/Muhammad-Talha4k/The-Sparks-Foundation-Tasks.git`
-
-`cd The-Sparks-Foundation-Tasks`
-
-`jupyter notebook`
+```bash 
+git clone https://github.com/Muhammad-Talha4k/The-Sparks-Foundation-Tasks.git 
 
 The notebooks contain the code and explanation for each task.
 
 
 ## Contributions
 
-   We welcome contributions from the community. Feel free to suggest improvements, fixes, or new features through issues or pull requests.
+We welcome contributions from the community. Feel free to suggest improvements, fixes, or new features through issues or pull requests.
